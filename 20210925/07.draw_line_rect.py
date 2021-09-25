@@ -19,6 +19,6 @@ cv2.rectangle(image, pt1, pt2, blue, 3, cv2.LINE_4)
 cv2.rectangle(image, roi, red, 3, cv2.LINE_8)
 cv2.rectangle(image, (400 ,200, 100, 100), green, cv2.FILLED)
 
-cv2.imshow("Line @ Rectangle", image)
+cv2.imshow("Line & Rectangle", image)
 cv2.waitKey(0)
-cv2.destroyAllWIndows()
+cv2.destroyAllWindows()
