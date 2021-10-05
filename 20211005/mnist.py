@@ -24,3 +24,4 @@ model.fit(x_train, y_train, epochs=5)
 # 6. 정확도 평가
 test_loss, test_acc = model.evaluate(x_test, y_test)
 print('테스트 정확도:', test_acc)
+print(x_train)
