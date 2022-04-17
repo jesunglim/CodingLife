@@ -1,0 +1,5 @@
+names:
+- pistol
+nc: 1
+train: C:/Users/jesung/github/CodingLife/20220418/train.txt
+val: C:/Users/jesung/github/CodingLife/20220418/val.txt
