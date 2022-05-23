@@ -48,7 +48,7 @@ ngf = 64
 ndf = 64
 
 # 학습할 에폭 수
-num_epochs = 5
+num_epochs = 10
 
 # 옵티마이저의 학습률
 lr = 0.0002
